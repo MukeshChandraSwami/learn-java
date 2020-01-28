@@ -6,7 +6,11 @@
 
     <groupId>com.learn</groupId>
     <artifactId>learn-java</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>java-module</module>
+    </modules>
 
     <properties>
         <guava.version>22.0</guava.version>
@@ -32,17 +36,27 @@
             <artifactId>commons-io</artifactId>
             <version>2.4</version>
         </dependency>
+        <dependency>
+            <groupId>com.learn</groupId>
+            <artifactId>java9-module</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
+        <directory>${project.basedir}/target</directory>
+        <outputDirectory>${project.build.directory}/classes</outputDirectory>
+        <testOutputDirectory>${project.build.directory}/test-classes</testOutputDirectory>
+        <sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
+                    <source>9</source>
+                    <target>9</target>
                 </configuration>
             </plugin>
         </plugins>
