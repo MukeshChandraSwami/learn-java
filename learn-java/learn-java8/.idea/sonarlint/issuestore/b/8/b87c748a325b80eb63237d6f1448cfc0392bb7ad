@@ -1,0 +1,12 @@
+
+L
+java:S1144"6Remove this unused private "filterCarsByPrice" method.(ƒìºì
+I
+java:S1144 ".Remove this unused private "mapPerson" method.(ŸÆŒÂÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Šúç÷úÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(¢Ýˆ]
+i
+java:S1602$"SRemove useless curly braces around statement and then remove useless return keyword(Ë²òÍ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—È­Ñýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(§ÕÔÐþÿÿÿÿ

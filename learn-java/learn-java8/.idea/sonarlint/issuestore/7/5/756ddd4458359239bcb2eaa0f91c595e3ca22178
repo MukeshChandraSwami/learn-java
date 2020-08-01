@@ -1,0 +1,13 @@
+
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(“ôé—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡œù úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—È­Ñıÿÿÿÿ
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ıİ—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡œù úÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Min : " 3 times.(¡œù úÿÿÿÿ
+L
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¤À¹k
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡œù úÿÿÿÿ

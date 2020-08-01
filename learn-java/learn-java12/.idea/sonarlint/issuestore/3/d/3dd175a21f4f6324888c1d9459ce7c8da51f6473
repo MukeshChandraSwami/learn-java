@@ -1,0 +1,37 @@
+
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¿ıº’8“®Óóƒ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å´çÍûÿÿÿÿ8Í€Ò‹„.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Å´çÍûÿÿÿÿ8ÁáÔóƒ.
+V
+squid:S106["9Replace this use of System.out or System.err by a logger.(Ñ¡¼8ù¸Òóƒ.
+[
+squid:S106h"9Replace this use of System.out or System.err by a logger.(’¸‹äşÿÿÿÿ8ÂáÔóƒ.
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(¦ÄØàùÿÿÿÿ8ÂáÔóƒ.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ŒãÀ¢şÿÿÿÿ8ÂáÔóƒ.
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(çĞ¼ùÿÿÿÿ8ÂáÔóƒ.
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(¿ıº’8ù¸Òóƒ.
+Rsquid:EmptyStatementUsageCheck]"Remove this empty statement.(ôŸìúÿÿÿÿ8ÂáÔóƒ.
+Psquid:S1199*"-Extract this nested code block into a method.(æŞñ«üÿÿÿÿ8æïÓóƒ.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Ñ¡¼8“®Óóƒ.
+Rsquid:EmptyStatementUsageCheck4"Remove this empty statement.(ôŸìúÿÿÿÿ8ÂáÔóƒ.
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(…Î‰“úÿÿÿÿ8ÂáÔóƒ.
+]squid:S1854":Remove this useless assignment to local variable "status".(ëÒŠ®úÿÿÿÿ8¶ÓÒ‹„.
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ÈÖ©­8ÂáÔóƒ.
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ŒãÀ¢şÿÿÿÿ8ÂáÔóƒ.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(‰²Šÿÿÿÿÿ8¬ï‹äƒ.
+Psquid:S1199"-Extract this nested code block into a method.(æŞñ«üÿÿÿÿ8Í€Ò‹„.
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(éï¹¹ıÿÿÿÿ8ÂáÔóƒ.
+Nsquid:S1481"+Remove this unused "status" local variable.(ëÒŠ®úÿÿÿÿ8¶ÓÒ‹„.
