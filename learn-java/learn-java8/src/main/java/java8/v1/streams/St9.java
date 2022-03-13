@@ -15,8 +15,7 @@ public class St9 {
 
         String str = ResourceLoader.getStrings()
                 .stream()
-                .collect(Collectors.joining(","))
-                ;
+                .collect(Collectors.joining(",","[","]"));
 
         System.out.println(str);
     }

@@ -33,9 +33,7 @@ public class St5 {
 
         ResourceLoader.getPersons()
                 .stream()
-                .map(person -> {
-                    return new PersonDto(person.getId(), person.getFirstName() + " " + person.getLastName(),person.getAge());
-                })
+                .map(person -> new PersonDto(person.getId(), person.getFirstName() + " " + person.getLastName(),person.getAge()))
                 .filter(person -> person.getAge() <= 5)
                 .forEach(System.out::println);
     }

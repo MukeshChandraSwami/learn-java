@@ -3,6 +3,7 @@ package java8.v1.streams;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.OptionalInt;
 
 public class St3 {
 
@@ -25,6 +26,12 @@ public class St3 {
 
     private static void findMaxNumber(List<Integer> list){
         int val = list.stream().max(Comparator.naturalOrder()).get();
-        System.out.println("Min : " + val);
+        System.out.println("Max : " + val);
+
+        OptionalInt max = list.stream().mapToInt(Integer::intValue)
+                .max();
+        if(max.isPresent()) {
+            System.out.println("Max : " +  max.getAsInt());
+        }
     }
 }
