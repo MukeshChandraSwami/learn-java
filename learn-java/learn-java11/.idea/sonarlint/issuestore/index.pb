@@ -1,5 +1,7 @@
 
-N
-src/com/learn/TrimVsStrip.java,2\5\25f2a53e4a27088bd7c0f57a8bfa9e3c9b0b2304
-\
-,src/com/learn/DiamondOperatorEnhancment.java,5\f\5fdffa3955d36706a260548ce1707c3d7df23409
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+B
+src/TestClass.java,e\b\eb091774000607cda4f6773949d0a3a189fb0470
+C
+src/Java11Main.java,e\c\ec592bd3dfee6a2813f0e7646e3537e88b91676d
