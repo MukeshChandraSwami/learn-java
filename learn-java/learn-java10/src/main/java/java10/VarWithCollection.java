@@ -21,5 +21,6 @@ public class VarWithCollection {
 
             carGroupByYear.forEach((k,v) -> System.out.println("Model:- " + color + " ---> Year :- " + k + " ---> value:- " + v));
         }
+
     }
 }
