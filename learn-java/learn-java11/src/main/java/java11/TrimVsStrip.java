@@ -1,16 +1,17 @@
 package java11;
 
 public class TrimVsStrip {
+
     public static void main(String[] args) {
 
-        String preAndPost = "***";
-        String str = "   My name is Mukesh\t\t";
+        char spaceUnicode = '\u2000';
+        String str = spaceUnicode + "My name is Mukesh";
 
         String trimmed = trim(str);
-        System.out.println(preAndPost + trimmed + preAndPost);
+        System.out.println("Trim:- " + trimmed.length());
 
         String stripped = strip(str);
-        System.out.println(preAndPost + stripped + preAndPost);
+        System.out.println("Strip:- " + stripped.length());
     }
 
     private static String strip(String str) {

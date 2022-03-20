@@ -7,6 +7,7 @@ public class VarMain {
     public static void main(String[] args) {
         var x = test();
         x = (int)13.14;
+
         var list = new ArrayList<String>();
         list.add("Mukesh");
         list.add("10");
