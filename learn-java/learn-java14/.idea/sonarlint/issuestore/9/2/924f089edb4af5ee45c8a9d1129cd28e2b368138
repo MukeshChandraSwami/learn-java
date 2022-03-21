@@ -1,0 +1,14 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "x".(‚¨ÛÍüÿÿÿÿ8á­éð¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8á­éð¯.
+H
+java:S1481"&Remove this unused "v" local variable.(‘Ù€£ùÿÿÿÿ8á­éð¯.
+V
+java:S3400"9Remove this method and declare a constant for this value.(½Ñÿß8»Æñð¯.
+W
+java:S1854"5Remove this useless assignment to local variable "v".(‘Ù€£ùÿÿÿÿ8á­éð¯.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(…îì!8á­éð¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ æìùÿÿÿÿ8á­éð¯.
+I
+java:S1602",Remove useless curly braces around statement(™‘Šæ8á­éð¯.
