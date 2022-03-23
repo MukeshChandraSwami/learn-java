@@ -1,0 +1,18 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì‹í¹üÿÿÿÿ8¥éÓñ€.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌïĞÅøÿÿÿÿ8Ò€Âñ€.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(»ä¥•ùÿÿÿÿ8Éêôñ€.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ¿êé8è­Ìñ€.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëŒÅ8Âõ×ñ€.
+1squid:S1220""Move this file to a named package.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖŠ´ùÿÿÿÿ8è­Ìñ€.
+Isquid:S1612&",Replace this lambda with a method reference.(è€Ìg8Ñ·–ò€.
+Isquid:S1602&",Remove useless curly braces around statement(è€Ìg8Ñ·–ò€.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8Ñ·–ò€.
