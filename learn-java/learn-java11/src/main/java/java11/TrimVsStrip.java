@@ -8,10 +8,10 @@ public class TrimVsStrip {
         String str = spaceUnicode + "My name is Mukesh";
 
         String trimmed = trim(str);
-        System.out.println("Trim:- " + trimmed.length());
+        System.out.println(trimmed + " :- " + trimmed.length());
 
         String stripped = strip(str);
-        System.out.println("Strip:- " + stripped.length());
+        System.out.println(stripped + " :- " + stripped.length());
     }
 
     private static String strip(String str) {

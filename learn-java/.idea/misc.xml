@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/learn-java8/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java9/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java10/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java11/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java12/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java13/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java14/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java15/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java16/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-java17/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

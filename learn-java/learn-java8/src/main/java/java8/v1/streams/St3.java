@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 import java.util.OptionalInt;
+import java.util.stream.Collectors;
 
 public class St3 {
 
@@ -22,6 +23,14 @@ public class St3 {
 
        val = list.stream().min(Comparator.naturalOrder()).get();
        System.out.println("Min : " + val);
+
+       val = list.stream().mapToInt(Integer::intValue)
+               .min().getAsInt();
+        System.out.println("Min : " + val);
+
+        val = list.stream()
+                .reduce(Integer.MAX_VALUE, Math::min);
+        System.out.println("Min : " + val);
     }
 
     private static void findMaxNumber(List<Integer> list){

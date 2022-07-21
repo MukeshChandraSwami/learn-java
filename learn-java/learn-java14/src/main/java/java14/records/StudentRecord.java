@@ -18,6 +18,11 @@ public record StudentRecord(String name, int rollNum) { // Parametrised construc
         this("Anonymous", 1000);
     }
 
+    public StudentRecord(String name, int rollNum, String description) {
+        this(name, rollNum);
+        System.out.println("Description is: " + description);
+    }
+
     public String getSchool() {
         return SCHOOL;
     }

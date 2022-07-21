@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-java9/entity/entity.iml" filepath="$PROJECT_DIR$/learn-java9/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java8/learn-java.iml" filepath="$PROJECT_DIR$/learn-java8/learn-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java9/learn-java (1).iml" filepath="$PROJECT_DIR$/learn-java9/learn-java (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java10/learn-java (2).iml" filepath="$PROJECT_DIR$/learn-java10/learn-java (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java11/learn-java (3).iml" filepath="$PROJECT_DIR$/learn-java11/learn-java (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java12/learn-java (4).iml" filepath="$PROJECT_DIR$/learn-java12/learn-java (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java13/learn-java (5).iml" filepath="$PROJECT_DIR$/learn-java13/learn-java (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java14/learn-java (6).iml" filepath="$PROJECT_DIR$/learn-java14/learn-java (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java15/learn-java (7).iml" filepath="$PROJECT_DIR$/learn-java15/learn-java (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java16/learn-java (8).iml" filepath="$PROJECT_DIR$/learn-java16/learn-java (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java17/learn-java (9).iml" filepath="$PROJECT_DIR$/learn-java17/learn-java (9).iml" />
+    </modules>
+  </component>
+</project>
